@@ -1,11 +1,14 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
+
 Repositório criado para o Desafio do Projeto.
 
-# Links Úteis 
+# Links Úteis
+
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Eduzz Fullstack Developer #2](https://web.dio.me/track/eduzz-fullstack-developer-2)
 
 # Organização das Aulas
+
 <div style="display: inline_block"><br>
   (Aula) Introdução a criação de websites com <img align="center" alt="Rodrigo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> e <img align="center" alt="Rodrigo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br>  
@@ -41,11 +44,11 @@ Repositório criado para o Desafio do Projeto.
   <br>
   (Aula) Introdução ao <img align="center" alt="Rodrigo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> e Bancos de Dados NoSQL
   <br>
-  (Aula) Introdução ao Node<img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> com <img align="center" alt="Rodrigo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  (Aula) Introdução ao <img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> com <img align="center" alt="Rodrigo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br>
-  (Aula) Node<img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> com Bancos de Dados Relacionais - <img align="center" alt="Rodrigo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  (Aula) <img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> com Bancos de Dados Relacionais - <img align="center" alt="Rodrigo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <br>
-  (Aula) Microsserviços e integrações com Node<img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  (Aula) Microsserviços e integrações com <img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <br>
   (Desafio) Resolvendo desafios intermediários em <img align="center" alt="Rodrigo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br>
