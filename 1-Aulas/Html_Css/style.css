@@ -1,0 +1,73 @@
+body {
+  background-color: #e7e7e7;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 90rem;
+  margin: auto;
+  font-tra
+}
+
+.photo {
+  border: 0.1rem solid #505050;
+  border-radius: 50%;
+}
+
+#title,
+.subtitle,
+.postTitle {
+  color: #505050;
+}
+
+#title {
+  font-size: 4rem;
+  text-transform: uppercase;
+}
+
+a {
+  color: #505050;
+  text-decoration: line-through;
+}
+
+.postTitle {
+  font-size: 1.6rem;
+  font-style: italic;
+  margin: 0;
+  margin-bottom: 1.5rem;
+}
+
+.post {
+  background-color: #ffffff;
+  padding: 1rem;
+  border: 0.3rem solid #505050;
+  margin-bottom: 1.5rem;
+  border-radius: 1rem;
+}
+
+.postContent {
+  margin: 0;
+  margin-bottom: 1.5rem;
+  text-transform: capitalize;
+  text-align: justify;
+}
+
+.postImg {
+  margin-bottom: 1.5rem;
+  width: 100%;
+}
+
+.contactList {
+  list-style-type: "\1f44d";
+  padding-left: 1.5rem;
+}
+
+.contactNumber {
+  list-style-type: upper-roman;
+  padding-left: 1.5rem;
+}
+
+.contactList li a {
+  text-decoration: none;
+}
+
+.contactNumber li a {
+  text-decoration: none;
+}
